@@ -1,0 +1,19 @@
+= Projet Pierre-Papier-ciseaux (ou Pierre-feuille-ciseaux) JavaScript
+
+:toc:
+
+toc::[]
+== (DARRAS Loïc ) à l'aide du youtubeur faiz-dev (https://www.youtube.com/watch?v=Dp3zVW9MI-I&list=LL&index=1)
+== lien github : https://github.com/LD-BTS-SIO/pierre-papier-ciseaux
+
+====
+image::img\egalite.png[width=800, title="Cas d'égalité", alt=""]
+====
+
+====
+image::img\gagne.png[width=800, title="Cas de victoire", alt=""]
+====
+
+====
+image::img\perdu.png[width=800, title="Cas de défaite", alt=""]
+====
