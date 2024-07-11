@@ -1,4 +1,4 @@
-= Projet Pierre-Papier-ciseaux (ou Pierre-feuille-ciseaux) JavaScript
+= Projet Pierre-Papier-ciseaux (ou Pierre-Feuille-Ciseaux) JavaScript
 
 :toc:
 
